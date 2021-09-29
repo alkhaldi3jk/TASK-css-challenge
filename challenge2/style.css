@@ -1,0 +1,29 @@
+*{
+background-image: url("/Users/abdullahalkhaldi/Development/TASK-css-challenge/assets/pokemon-bg.jpg");
+}
+
+
+img{
+    width: 100px;
+    border-radius: 50%;
+}
+.container{
+    size: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+
+
+}
+
+.box{
+    border-radius: 12px;
+    height: 300px;
+    width: 300px;
+    background:white;
+    padding: 50px;
+    border-radius: 10px;
+    position: relative;
+    text-align: center;
+}
