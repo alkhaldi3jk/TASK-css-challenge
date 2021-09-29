@@ -1,5 +1,6 @@
-*{
-background-image: url("/Users/abdullahalkhaldi/Development/TASK-css-challenge/assets/pokemon-bg.jpg");
+body{
+    background-image: url("/assets/pokemon-bg.jpg");
+
 }
 
 
